@@ -1,0 +1,20 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "A simple Todo API built with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "todo",
+    "api",
+    "node.js"
+  ],
+  "author": "Developer",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
